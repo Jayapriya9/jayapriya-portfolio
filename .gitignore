@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+/out-tsc
+
+# Misc
+.angular/cache
+.DS_Store
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
