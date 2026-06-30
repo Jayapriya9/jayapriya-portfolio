@@ -7,7 +7,6 @@
 - Glassmorphism cards with neon hover glow
 - Resume download button in navbar + hero + contact
 - Avatar support (drop profile.svg into src/assets/)
-- Contact section targets MNC/IT companies explicitly
 
 ## Setup
 ```bash
